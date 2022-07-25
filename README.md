@@ -3,3 +3,4 @@
 ### Receitas	
 
 - Strogonoff
+- Spaghetti Cacio e Pepe
